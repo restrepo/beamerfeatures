@@ -1,0 +1,2 @@
+To generate pdf uses:
+$ pdflatex example_features
